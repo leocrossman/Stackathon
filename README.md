@@ -19,9 +19,7 @@
 
     1.  Get the data.
     2.  Define loss function.
-
-    * Parameters _m_ and _b_ from equation of a line are our parameters that we pass to the loss function that allow us to create the predictions on our line to compare with the actual points from our data.
-
+        * Parameters _m_ and _b_ from equation of a line are our parameters that we pass to the loss function that allow us to create the predictions on our line to compare with the actual points from our data.
     3.  Define optimizer.
     4.  Optimizer minimizes the loss function via the learning rate.
 
