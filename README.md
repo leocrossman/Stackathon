@@ -23,8 +23,8 @@
           (guess - y)^2
           ```
 
-      * Looking to minimize the vertical distance from each point to the line going between them.
-        * The sum of all these distances is the number that we want to minimize
+      * This minimizes the vertical distance from each point to the line going between them.
+        * The average of all these distances is the number that we want to minimize.
 
     - Optimizer
       * **Allows** us to minimize the Loss Function via a Learning Rate
