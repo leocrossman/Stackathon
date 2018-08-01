@@ -18,11 +18,7 @@
 
       * Many different loss functions
       * We will use Mean Squared Error
-
-        * ```Math
-          (guess - y)^2
-          ```
-
+        * `(guess - y)^2`
       * This minimizes the vertical distance from each point to the line going between them.
         * The average of all these distances is the number that we want to minimize.
 
